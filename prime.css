@@ -1,0 +1,114 @@
+body{
+    color: black;
+    background-color:white;
+}
+
+footer {
+    background-color:rgb(208, 202, 195);
+}
+.card{
+    background-color:white;
+}
+.crd{
+    background-color: black;
+    border-radius: 75px;
+}
+
+.card-text{
+    color: white;
+}
+button{
+    color:white;
+}
+.container{
+    color:black;
+}
+.clr{
+   
+ color: black;
+}
+.card-body{
+    background-color:black;
+}
+
+.rounded{
+    border-radius: 50%;
+}
+
+#bg{
+   background-position: left;
+   height: 600px;
+   width: 1270px;
+}
+#img{
+    height: 225px;
+}
+#chi{
+    height: 300px;
+}
+#box{
+    display: flex;
+    align-content: center;
+}
+#about{
+    display: flex;
+    align-content: center;
+    background-color:rgb(208, 202, 195);
+   
+   
+}
+#log{
+    text-decoration:none;
+   
+}
+
+#ob1{
+    object-fit: contain;
+    border-radius: 70%;
+    height:140px;
+    align-content: center;
+    
+}
+#ob2{
+    object-fit: contain;
+    border-radius: 70%;
+    height:140px;
+    align-content: center;
+    
+}
+#ob3{
+    object-fit: contain;
+    border-radius: 70%;
+    height:150px;
+    align-content: center;
+    
+}
+#home{
+    width: 1300px;
+    
+}
+
+#navb{
+    background-color: rgb(208, 202, 195);
+}
+#ogn{
+    color: black;
+}
+#gani{
+    text-align: right;
+}
+#gani1{
+    text-align: right;
+}
+#gani2{
+    text-align: right;
+}
+@media  only screen and  (max-width: 600px)
+{
+    .text {
+visibility: collapse;
+    }
+    .phonetext{
+        visibility: visible;
+    }
+}
